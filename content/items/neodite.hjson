@@ -5,4 +5,4 @@ cost: 1
 alwaysUnlocked: false
 color: 9ea69c
 research: surge-alloy
-shownPlanets: serpulo
+shownPlanets: [serpulo]
