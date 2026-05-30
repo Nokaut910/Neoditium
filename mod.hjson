@@ -1,0 +1,12 @@
+name: neoditium
+displayName: Neoditium
+author: Nokaut
+subtitle: Welcome to the Future!
+description: 
+'''
+Adds a LOT of Serpulo Content!
+Can be played with other mods!
+'''
+Version: "1.0.0"
+repo: Nokaut910/neoditium
+minGameVersion: 157.4
