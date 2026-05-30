@@ -1,0 +1,8 @@
+name: Neodite
+description: "An artificial highly durable material. Used in complex processes and as high-tier ammunition."
+hardness: 1
+cost: 1
+alwaysUnlocked: false
+color: 9ea69c
+research: surge-alloy
+shownPlanets: serpulo
